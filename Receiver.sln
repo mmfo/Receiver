@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Receiver", "Receiver\Receiver.vcxproj", "{188165BE-275B-4A88-A09E-DCB9D553E93B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Debug|x64.ActiveCfg = Debug|x64
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Debug|x64.Build.0 = Debug|x64
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Debug|x86.ActiveCfg = Debug|Win32
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Debug|x86.Build.0 = Debug|Win32
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Release|x64.ActiveCfg = Release|x64
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Release|x64.Build.0 = Release|x64
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Release|x86.ActiveCfg = Release|Win32
+		{188165BE-275B-4A88-A09E-DCB9D553E93B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAE25C30-FE39-413C-909B-F4CA79F022ED}
+	EndGlobalSection
+EndGlobal
